@@ -82,12 +82,12 @@ body{
 .attribution{
   position: relative;
   display: flex;
-  margin-top: -150px;
+  margin-top: -50px;
   justify-content: center;
   align-items: center;
   font-size: 14px;
   color: #000;
-  overflow: hidden;
+  z-index: -1;
 }
 
 .attribution__a{
