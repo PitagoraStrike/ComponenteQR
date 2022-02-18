@@ -21,7 +21,7 @@ El desafío es desarrollar esta tarjeta de componente QR lo más parecido posibl
 - Card, imagenes y contenido ajustable para dispositivos moviles
 
 ### LINK
-Solution URL: [https://design-card-victor.netlify.app/](https://design-card-victor.netlify.app/)
+Solution URL: [https://component-qr.netlify.app/](https://component-qr.netlify.app/)
 
 ### ¿COMENTARIOS?
 Si tienes comentarios o dudas no dudes en escribirme en mis redes sociales
