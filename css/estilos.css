@@ -49,6 +49,7 @@ body{
   background-color: var(--White);
   border-radius: 15px;
   overflow: hidden;
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.20);
 }
 
 .overlay__img--hero{
